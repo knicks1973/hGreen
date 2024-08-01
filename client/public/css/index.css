@@ -1,5 +1,6 @@
 body {
-	
+	background-image: url("../images/campus.png");
+    background-color: aqua;
 }
 
 #splash_title {
